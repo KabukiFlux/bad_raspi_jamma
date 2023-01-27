@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "jamma")(type "KiCad")(uri "${KIPRJMOD}/jamma.kicad_sym")(options "")(descr ""))
+  (lib (name "LM4952TS")(type "KiCad")(uri "${KIPRJMOD}/LM4952TS_NOPB.kicad_sym")(options "")(descr ""))
+)
